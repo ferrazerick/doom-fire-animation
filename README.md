@@ -27,12 +27,12 @@ Este projeto foi construído com base no vídeo:
 
 1. **Clone este repositório:**
    ```bash
-    git clone https://github.com/ferrazerick/doom-fire-animation.git
+   git clone https://github.com/ferrazerick/doom-fire-animation.git
    ```
 
 2. **Acesse a pasta do projeto:**
     ```bash
-        cd doom-fire-animation
+    cd doom-fire-animation
     ```
 
 3. **Inicie o servidor local**
