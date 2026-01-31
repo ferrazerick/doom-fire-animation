@@ -2,21 +2,15 @@
 
 Implementação do algoritmo de fogo do clássico jogo **DOOM** em JavaScript. Este projeto foi desenvolvido seguindo o excelente tutorial do **Filipe Deschamps**, focado em manipulação de arrays e lógica de propagação de calor.
 
----
-
-## 📺 Referência
-Este projeto foi construído com base no vídeo:  
+## Referência
+Este projeto foi construído com base no vídeo abaixo, do Filipe Deschamps:  
 [**Construindo o algoritmo de fogo do DOOM - Filipe Deschamps**](https://www.youtube.com/watch?v=fxm8cadCqbs)
-
----
 
 ## O que este projeto demonstra?
 - **Arrays Lineares vs Matrizes:** Uso de um único array para representar uma grade bidimensional.
 - **Propagação de Dados:** Como o valor de um "pixel" afeta os vizinhos para criar movimento.
 - **Renderização Dinâmica:** Manipulação de tabelas HTML via DOM para exibição visual.
 - **Efeitos Estocásticos:** Uso de `Math.random()` para simular vento e irregularidade nas chamas.
-
----
 
 ## Como Executar o Projeto
 * Caso não queira rodar localmente, pode ver um exemplo no fim deste readme.
