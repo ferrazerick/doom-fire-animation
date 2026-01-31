@@ -1,0 +1,29 @@
+const firePixelsArray = []
+const fireWidth = 2
+const fireHeight = 3
+
+
+function start() {
+    createFireDataStructure()
+    console.log(firePixelsArray)
+}
+
+function createFireDataStructure() {
+    const numberOfPixels = fireWidth * fireHeight
+
+    for (let i = 0; i < numberOfPixels; i++) {
+        firePixelsArray[i] = 0
+    }
+}
+
+function calculateFirePropagation() {
+}   
+
+function renderFire() {
+    let html = '<table cellpadding=0 cellspancing=0>'
+
+    for (let row = 0; row < fireHeight; row++)
+    html += '<table>'
+}
+
+start()
