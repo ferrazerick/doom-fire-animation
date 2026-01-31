@@ -1,4 +1,4 @@
-# 🔥 Doom Fire Algorithm
+# Doom Fire Algorithm
 
 Implementação do algoritmo de fogo do clássico jogo **DOOM** em JavaScript. Este projeto foi desenvolvido seguindo o excelente tutorial do **Filipe Deschamps**, focado em manipulação de arrays e lógica de propagação de calor.
 
@@ -10,7 +10,7 @@ Este projeto foi construído com base no vídeo:
 
 ---
 
-## 🧠 O que este projeto demonstra?
+## O que este projeto demonstra?
 - **Arrays Lineares vs Matrizes:** Uso de um único array para representar uma grade bidimensional.
 - **Propagação de Dados:** Como o valor de um "pixel" afeta os vizinhos para criar movimento.
 - **Renderização Dinâmica:** Manipulação de tabelas HTML via DOM para exibição visual.
@@ -18,7 +18,8 @@ Este projeto foi construído com base no vídeo:
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
+* Caso não queira rodar localmente, pode ver um exemplo no fim deste readme.
 
 ### Pré-requisitos
 * Ter o **Node.js** instalado (para usar o servidor de arquivos estáticos).
@@ -53,3 +54,8 @@ Este projeto foi construído com base no vídeo:
 - CSS (Estilização e paleta de cores)
 - JavaScript (Lógica do algoritmo)
 - Node.js (Executar o ambiente localmente)
+
+
+## Exemplo real
+
+https://github.com/user-attachments/assets/d897210c-c63b-4c45-b7d9-6fb4387fb48d
