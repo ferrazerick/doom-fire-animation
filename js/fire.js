@@ -20,7 +20,7 @@ function createFireDataStructure() {
 function calculateFirePropagation() {
     const numberOfPixels = fireWidth * fireHeight
 
-    for (let column = 0; column < numberOfPixels; column++) {
+    for (let column = 0; column < fireWidth; column++) {
         for (let row = 0; row < fireHeight; row++) {
             const pixelIndex = column + fireWidth * row
         }
